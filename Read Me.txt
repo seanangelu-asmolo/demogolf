@@ -1,0 +1,16 @@
+A full backup of the database, archived with 7-zip (.7z extension)
+- DEMOGOLF.7z
+
+Name of the trigger created
+- TR_AR_CUST_AFTERUPDATE
+- Note: Run out of time to implement handler in each column.
+
+Names of the stored procedure created
+- SP_SELECT_PS_TKT_HIST
+
+Packaged .exe code
+- Packaged exe code.7z
+- Note: Created in Visual Studio 2022 Community Edition. Need to change SQL Connection string to work in other machine. Run out of time to implement App.config.
+
+Result file
+- File
